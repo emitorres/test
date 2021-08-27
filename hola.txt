@@ -1,2 +1,6 @@
 hola
+<<<<<<< HEAD
 hola
+=======
+hola
+>>>>>>> 26343f1404b7bd73aa8ff0113d4f21bcaa55e2fb
